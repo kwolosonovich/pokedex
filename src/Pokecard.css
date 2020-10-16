@@ -1,0 +1,30 @@
+.pokecard {
+    background-color: #dddddd;
+    width: 200px;
+    height: 200px;
+}
+
+.pokecard-name {
+    color: blue;
+    padding-top: 10px;
+}
+
+.pokecard-desc {
+    color: black;
+    font-size: 12px;
+    list-style-type: none;
+    padding-bottom: 5px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.pokecard-image {
+    width: 100px;
+    height: auto;  
+}
+
+
