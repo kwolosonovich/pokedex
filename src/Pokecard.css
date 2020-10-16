@@ -1,12 +1,16 @@
 .pokecard {
     background-color: #dddddd;
-    width: 200px;
+    width: 150px;
     height: 200px;
+    display: inline-grid;
+    margin: 20px;
+    border-radius: 7px;
 }
 
 .pokecard-name {
     color: blue;
     padding-top: 10px;
+    margin-bottom: 0px;
 }
 
 .pokecard-desc {
@@ -23,8 +27,10 @@ ul {
 }
 
 .pokecard-image {
-    width: 100px;
-    height: auto;  
+    margin: auto;
+    width: 50%;
+    height: auto; 
+
 }
 
 
