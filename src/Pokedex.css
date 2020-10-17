@@ -1,0 +1,11 @@
+.pokedex {
+    width: 60%;
+    margin: 60px auto;
+    border: 1px solid #dddddd;
+    border-radius: 7px;
+    color: #c7c7c7
+}
+
+.pokedex-winner {
+    color: green;
+}

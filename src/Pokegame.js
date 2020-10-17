@@ -24,10 +24,10 @@ const Pokegame = ({ items }) => {
 
 
     if (exp1 > exp2) {
-        status1 = "Winner!";
+        status1 = "WINNER!";
         status2 = "";
     } else {
-        status2 = "Winner!";
+        status2 = "WINNER!";
         status1 ="";
     }  
 
